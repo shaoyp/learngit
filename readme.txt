@@ -4,4 +4,4 @@ Git is free software.
 This is a new branch.
 
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
